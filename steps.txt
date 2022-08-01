@@ -1,0 +1,9 @@
+1) Clone this github url,
+2) Type yarn to install dependencies,
+3) then run yran build
+4) then run yran develop
+-----------------------
+
+Whenever you done develpoing.....
+
+5) Git add, commit push it will aauto deploy and see the changes
